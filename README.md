@@ -1,5 +1,8 @@
 ### Hello world! I am Joanna, a passionate front-end web developer and UI/UX enthusiast with a background in Manual QA testing.
 
+<div align="center">
+<img src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="just a gif" width="300px" />
+</div>
 
 <hr> </hr>
 
