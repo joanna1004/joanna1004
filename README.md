@@ -3,7 +3,7 @@
 
 
 ### ✉️ Contact/Connect with me:
-<a href="https://linkedin.com/in/joanna-recto" target=”_blank” rel="nofollow"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee" /> <a/>
+<a href="https://linkedin.com/in/joanna-recto" target= "_blank" rel="nofollow"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee" /> <a/>
 <a href="mailto:rectojoanna20@gmail.com" target=”_blank” rel="nofollow"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <a/>
 
 
