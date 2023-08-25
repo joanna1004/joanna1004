@@ -3,10 +3,8 @@
  <h3> An aspirant front-end web developer and UI/UX designer with a background in Manual QA testing.  </h3>
 </div>
 
-</br>
-
 <div>
-
+</br>
  <img src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="just a gif" width="380px" align="right"/>
  </br>
  <ul align="left">
