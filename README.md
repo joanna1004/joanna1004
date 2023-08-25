@@ -1,8 +1,22 @@
 ### Hello world! I am Joanna, a passionate front-end web developer and UI/UX enthusiast with a background in Manual QA testing.
 
-<div align="center">
+<div style="display: flex; flex-direction: row;">
+<ul>
+<li > 🧑🏻‍💻 I'm a graduate of BS Information Technology </li>
+<li > 💼 I have a work experience as a Manual QA Tester</li>
+<li > 🌱 I’m currently learning Reactjs</li>
+<li > 🔭 I’m currently working on my Portfolio</li>
+<li > 👯 I’m looking to collaborate on projects</li>
+<li > 🤔 I’m looking for mentorship, internship and job</li>
+<li > 🎯 My goal is to design, develop and deploy projects </li>
+<li > 📫 How to reach me: [rectojoanna20@gmail.com]</li>
+<li > ⚡ Fun fact: I love sci-fi esp time travel</li>
+</ul>
+
 <img src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="just a gif" width="300px" />
 </div>
+
+
 
 <hr> </hr>
 
