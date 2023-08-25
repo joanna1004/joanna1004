@@ -1,6 +1,6 @@
 <div align="center">
  <h1> Hello world! I am Joanna 👋 </h1>
- <h4> An aspirant front-end web developer and UI/UX designer with a background in Manual QA testing.  </h4>
+ <h3> An aspirant front-end web developer and UI/UX designer with a background in Manual QA testing.  </h3>
 </div>
 
 </br>
