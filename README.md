@@ -7,7 +7,7 @@
 
 <div>
 
- <img src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="just a gif" width="350px" align="right"/>
+ <img src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="just a gif" width="380px" align="right"/>
  <ul align="left">
   <li > 🧑🏻‍💻 I'm a graduate of BS Information Technology </li>
   <li > 💼 I have a work experience as a Manual QA Tester</li>
