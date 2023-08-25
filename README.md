@@ -1,25 +1,35 @@
-### Hello world! I am Joanna, a passionate front-end web developer and UI/UX enthusiast with a background in Manual QA testing.
-
-<div style="display: flex; flex-direction: row;">
-<ul>
-<li > 🧑🏻‍💻 I'm a graduate of BS Information Technology </li>
-<li > 💼 I have a work experience as a Manual QA Tester</li>
-<li > 🌱 I’m currently learning Reactjs</li>
-<li > 🔭 I’m currently working on my Portfolio</li>
-<li > 👯 I’m looking to collaborate on projects</li>
-<li > 🤔 I’m looking for mentorship, internship and job</li>
-<li > 🎯 My goal is to design, develop and deploy projects </li>
-<li > 📫 How to reach me: [rectojoanna20@gmail.com]</li>
-<li > ⚡ Fun fact: I love sci-fi esp time travel</li>
-</ul>
-
-<img src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="just a gif" width="300px" />
+<div align="center">
+ <h1> Hello world! I am Joanna 👋 </h1>
+ <h4> An aspirant front-end web developer and UI/UX designer with a background in Manual QA testing.  </h4>
 </div>
+
+</br>
+
+<div>
+
+ <img src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="just a gif" width="450px" align="right"/>
+ <ul align="left">
+  <li > 🧑🏻‍💻 I'm a graduate of BS Information Technology </li>
+  <li > 💼 I have a work experience as a Manual QA Tester</li>
+  <li > 🌱 I’m currently learning Reactjs</li>
+  <li > 🔭 I’m currently working on my Portfolio</li>
+  <li > 👯 I’m looking to collaborate on projects</li>
+  <li > 🤔 I’m looking for mentorship, internship and job</li>
+  <li > 🎯 My goal is to develop projects that offer solutions to global issues </li>
+  <li > 📫 How to reach me: <a href= "mailto:rectojoanna20@gmail.com">Gmail</a>, <a href= "https://linkedin.com/in/joanna-recto/)">LinkedIn</a> </li>
+  <li > ⚡ Fun fact: I love sci-fi esp time travel</li>
+ </ul>
+
+</div>
+ 
+
 
 
 
 <hr> </hr>
 
+<div>
+ 
 ### 💃🏻 Skills
 - 🖌️ Front-end web development
 - 🔎 Manual QA Testing (Functionality)
@@ -37,17 +47,12 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-404040?style=for-the-badge&logo=git&logoColor=whit" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-191919?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-191919?style=for-the-badge&logo=notion&logoColor=white" />
+
 </div>
-
-<hr> </hr>
-
-### 📦 Github stats 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joanna1004&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanna1004&layout=compact&theme=transparent)
 
 <hr> </hr>
 
