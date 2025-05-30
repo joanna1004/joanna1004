@@ -12,7 +12,7 @@
   <li > 🔭 I’m currently working on my Portfolio</li> -->
   <li > 🫶 I’m looking to collaborate on projects that offer solutions to social and global issues</li>
   <li > 📫 How to reach me: <a href= "mailto:rectojoanna20@gmail.com">Gmail</a>, <a href= "https://linkedin.com/in/joanna-recto/)">LinkedIn</a> </li>
-  <li > ⚡ Fun fact: I love time travel</li>
+  <li > ⚡ Fun fact: I love scie-fi and foods</li>
  </ul>
 
 </div>
