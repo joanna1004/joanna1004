@@ -1,20 +1,20 @@
 <div align="center">
  <h1> Hello world! I am Joanna 👋 </h1>
- <h3> An aspirant front-end web developer and UI/UX designer with a background in Manual QA testing.  </h3>
+ <h3> A Software QA tester with Manual and Automation skills</h3>
 </div>
 <br />
 <div>
  <img src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="just a gif" width="380px" align="right"/>
  <ul align="left">
   <li > 🧑🏻‍💻 I'm a graduate of BS Information Technology </li>
-  <li > 💼 I have a work experience as a Manual QA Tester</li>
+  <li > 💼 I have a work experience as a Automation & Manual QA Tester</li>
   <li > 🌱 I’m currently learning Reactjs</li>
   <li > 🔭 I’m currently working on my Portfolio</li>
   <li > 🫶 I’m looking to collaborate on projects</li>
   <li > 🤝 I’m looking for mentorship, internship and job</li>
-  <li > 🎯 My goal is to develop projects that offer solutions to global issues </li>
+  <li > 🎯 My goal is to  projects that offer solutions to global issues </li>
   <li > 📫 How to reach me: <a href= "mailto:rectojoanna20@gmail.com">Gmail</a>, <a href= "https://linkedin.com/in/joanna-recto/)">LinkedIn</a> </li>
-  <li > ⚡ Fun fact: I love sci-fi esp time travel</li>
+  <li > ⚡ Fun fact: I love time travel</li>
  </ul>
 
 </div>
@@ -28,9 +28,8 @@
 <div>
  
 ### 💃🏻 Skills
-- 🖌️ Front-end web development
-- 🔎 Manual QA Testing (Functionality)
-- ✏️ UI/UX design
+- Manual testing
+- Automation Testing
 
 
 ### 💻 Tech
